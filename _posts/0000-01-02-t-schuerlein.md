@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The edit file button is the three dots button, so dumb
 Use the left arrow to go back!
